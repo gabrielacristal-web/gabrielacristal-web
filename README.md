@@ -1,15 +1,15 @@
 # 👋 Olá! Eu sou a Gabriela
 
-## 💡 Sobre mim
+ 💡 Sobre mim
 
 Acredito que a tecnologia pode ser uma ferramenta importante para inovação e avanço da sociedade.  
 Gosto de explorar ideias de tecnologia que possam gerar impacto positivo, desde sistemas úteis até soluções criativas e sustentáveis.
 
-🎓 Estudante de Gestão da Tecnologia da Informação (Fatec) e Técnica em formação em Desenvolvimento de Sistemas  
+🎓 Estudante de Gestão da Tecnologia da Informação e Técnica em formação em Desenvolvimento de Sistemas  
 
 🚀 Preparando-me para o mercado de tecnologia 
 
-##💻 Atualmente aprendendo:
+## 💻 Atualmente aprendendo:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
