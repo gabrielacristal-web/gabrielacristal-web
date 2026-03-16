@@ -2,7 +2,14 @@
 
 🎓 Estudante de Gestão da Tecnologia da Informação (Fatec) e Técnica em formação em Desenvolvimento de Sistemas  
 
-💻 Atualmente aprendendo Python, HTML, CSS e JavaScript  
+ 🛠️ Tecnologias que estou aprendendo
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p> 
 
 🚀 Preparando-me para o mercado de tecnologia  
 
